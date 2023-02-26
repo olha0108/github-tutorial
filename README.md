@@ -1,2 +1,2 @@
 # github-tutorial
-Репозиторий для тренировки работы с системой контроля версий
+Repository for training work with the version control system
